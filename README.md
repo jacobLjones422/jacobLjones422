@@ -24,12 +24,7 @@ I’m also an **Open-Source** enthusiast with all of my projects open-sourced on
 
 <br/>
 
-### 📈 GitHub Stats
-
-
-<a href="https://github.com/jacobleejones422?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jacobleejones422&show_icons=true&count_private=true&include_all_commits=true&line_height=21&show_icons=true&theme=vue&hide_border=true" alt="Jacob Lee Jones's github stats--" />
-</a> 
+ 
 <a href="https://github.com/jacobleejones422?tab=repositories">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobleejones422&show_icons=true&layout=compact&theme=vue&hide_border=true&langs_count=8" />
